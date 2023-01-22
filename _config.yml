@@ -15,7 +15,7 @@ linkiconbase: /images/links/
 links:
   - name:
     link:
-    icon:
+    icon: 'blog.png'
 
 # pagination
 pagination:
